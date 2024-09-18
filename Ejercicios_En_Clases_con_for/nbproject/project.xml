@@ -3,11 +3,7 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-<<<<<<< HEAD
-            <name>Ejercicio_en_Clase</name>
-=======
-            <name>Tarea_Clases</name>
->>>>>>> ca3c6f58ae87695211fe968b918e7356ff417226
+            <name>Ejercicios_En_Clases_con_for</name>
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
